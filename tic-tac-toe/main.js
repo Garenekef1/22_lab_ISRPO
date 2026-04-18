@@ -1,1 +1,1 @@
-console.log("tic-tac-toe placeholder");
+console.log("Раздел tic-tac-toe подготовлен");
