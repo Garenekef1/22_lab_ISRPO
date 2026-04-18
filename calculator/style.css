@@ -40,3 +40,9 @@ button {
   grid-column: span 4;
   background: orange;
 }
+
+.hint {
+  text-align: center;
+  color: #111827;
+  margin-top: 10px;
+}
