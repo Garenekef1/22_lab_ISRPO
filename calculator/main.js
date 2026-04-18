@@ -37,3 +37,5 @@ buttons.forEach((button) => {
 if (clearBtn) {
   clearBtn.title = "Очистить выражение";
 }
+
+display.value = "0";
